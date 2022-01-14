@@ -1,3 +1,0 @@
-print "Bom Dia!"
-t1 "Miguel"
-print t1
